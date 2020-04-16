@@ -1,1 +1,1 @@
-web: gin-web.exe
+web: gin-web
